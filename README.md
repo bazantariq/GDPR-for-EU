@@ -1,0 +1,6 @@
+# GDPR-for-EU
+
+Youtube Tutorial
+https://youtu.be/zmFRUw3VF20
+
+Under the Google EU User Consent Policy, you must make certain disclosures to your users in the European Economic Area (EEA) and obtain their consent to use cookies or other local storage, where legally required, and to use personal data (such as AdID) to serve ads. This policy reflects the requirements of the EU ePrivacy Directive and the General Data Protection Regulation (GDPR).  To support publishers in meeting their duties under this policy, Google offers a Consent SDK. The Consent SDK is an open-source library that provides utility functions for collecting consent from your users. The full source code is available on GitHub.  Ads served by Google can be categorized as personalized or non-personalized, both requiring consent from users in the EEA. By default, ad requests to Google serve personalized ads, with ad selection based on the user's previously collected data. Google also supports configuring ad requests to serve non-personalized ads. Learn more about personalized and non-personalized ads.  This guide describes how to use the Consent SDK to obtain consent from users. It also describes how to forward consent to the Google Mobile Ads SDK once you have obtained consent.
