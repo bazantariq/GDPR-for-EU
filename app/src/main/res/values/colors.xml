@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#073f70</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#fbc02d</color>
+    <color name="invalidColour">#e40101</color>
+    <color name="BackgroundWhiteColor">#FFFF</color>
+    <color name="navigationViewBackground">#78ffffff</color>
+    <color name="dashboardCardViewBackground">#55ffffff</color>
+    <color name="incomeExpense">#4db6ac</color>
+    <color name="incomeExpenseSelected">#009688</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="translucent">#96ffffff</color>
+    <color name="buttonBlue">#0a2192</color>
+    <color name="purple_500">#D034EB</color>
+    <color name="purple_700">#731E81</color>
+    <color name="white">#FFFFFF</color>
+    <color name="teal_200">#00BCD4</color>
+    <color name="teal_700">#00AAC0</color>
+    <color name="purple_200">#E863FF</color>
+</resources>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GDPR for EU</string>
+    <string name="loginButtonName">LOGIN</string>
+    <string name="signUpButtonName">SIGN UP</string>
+    <string name="idEditTextHint">EMAIL ID / PHONE NUMBER</string>
+    <string name="passwordEditTextHint">PASSWORD</string>
+    <string name="loginErrorMessage">Invalid Credentials</string>
+    <string name="userNameEditTextHint">YOUR NAME</string>
+    <string name="emailAddressEditTextHint">EMAIL ID</string>
+    <string name="phoneNumberEditTextHint">PHONE NUMBER</string>
+    <string name="addressEditTextHint">ADDRESS</string>
+    <string name="dobEditTextHint">DATE OF BIRTH</string>
+    <string name="emptyIDError">Enter ID</string>
+    <string name="emptyPasswordError">Enter Password</string>
+    <string name="emptyYourNameError">Enter your name</string>
+    <string name="emptyEmailAddressError">Enter your Email Address</string>
+    <string name="emptyPhoneNumberError">Enter your Phone Number</string>
+    <string name="emptyConfirmPasswordError">Verify your Password in Confirm Password</string>
+    <string name="passwordNotMatchError">Password did not match</string>
+    <string name="confirmPasswordEditTextHint">CONFIRM PASSWORD</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_add">Add Transaction</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_settings">Settings</string>
+    <string name="userAlreadyExistError">An account with this phone number already exist</string>
+    <string name="userSuccessfullyAdded">Account successfully created</string>
+    <string name="tab_text_1">Profile Management</string>
+    <string name="tab_text_2">App Settings</string>
+    <string name="newCategory">New Category</string>
+    <string name="newBudget">Budget</string>
+</resources>

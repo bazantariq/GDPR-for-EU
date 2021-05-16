@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "710243481290",
+    "project_id": "fiverrproject-2ce1c",
+    "storage_bucket": "fiverrproject-2ce1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710243481290:android:b8ec1c324a4ff3be1aa633",
+        "android_client_info": {
+          "package_name": "com.example.fiverrproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710243481290-rq0e99jo799rj91626vojrttd8c8b5au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfrWeV32s5YsEp-asNcR7vVh66cf2nUNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710243481290-rq0e99jo799rj91626vojrttd8c8b5au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
